@@ -10,7 +10,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Due Date: September 13, 2024 at 11:59 pm EST
 ### Instructions
 
 Students should submit their reports on Canvas. The report needs to clearly state what question is being solved, step-by-step walk-through solutions, and final answers clearly indicated. Please solve by hand where appropriate.
